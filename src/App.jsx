@@ -1,10 +1,10 @@
 import React from "react";
-import Routed from "./Routes/Routes";
+import {Rutas} from "./Routes/Routes";
 
 function App() {
   return (
     <div>
-      <Routes/>
+      <Rutas/>
     </div>
   );
 }

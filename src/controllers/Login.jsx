@@ -1,4 +1,3 @@
-import React from 'react'
 import { AUTH_URL } from '../config/spotifyConfig'
 
 export const Login = () => {

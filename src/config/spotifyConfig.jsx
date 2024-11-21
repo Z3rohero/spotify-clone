@@ -1,9 +1,5 @@
-import dotenv from 'dotenv';
-
-// Configurar dotenv
-dotenv.config();
-const  CLIENT_ID =  process.env.CLIENT_ID
-const REDIRECT_URI  = process.env.REDIRECT_URI
+import { CLIENT_ID, } from "./config";
+const REDIRECT_URI = "http://localhost:5173/callback";
 
 //Alcance
 const SCOPES = [
