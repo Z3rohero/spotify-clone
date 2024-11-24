@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import {Login} from "../controllers/Login";
 import Callback from "../controllers/Callback";
-import Dashboard from "../components/Dashboard";
+import Dashboard from "../pages/Dashboard";
 
 export const Rutas =()=>{
   return (
