@@ -19,3 +19,5 @@ npm install
 En la pagina oficial te va suministra el  CLIENT_ID, REDIRECT 
 ## Crear las variables de entorno 
 En el archivo ".env.local.example" se da un ejemplo de cómo se deben llamar las variables de entorno. Se debe crear el archivo ".env.local" (por favor, revisa la documentación de VITE  [aquí](https://vite.dev/guide/env-and-mode). sobre variables de entorno, si tienes alguna duda).
+## Captura de pantalla
+![Descripción de la imagen](/src/assets/images/capturas.jpg)
