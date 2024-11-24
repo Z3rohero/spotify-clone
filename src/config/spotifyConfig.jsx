@@ -1,5 +1,4 @@
-import { CLIENT_ID, } from "./config";
-const REDIRECT_URI = "http://localhost:5173/callback";
+import { CLIENT_ID,REDIRECT_URI } from "./config";
 
 //Alcance
 const SCOPES = [
