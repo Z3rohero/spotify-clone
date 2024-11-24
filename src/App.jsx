@@ -1,5 +1,5 @@
-import React from "react";
 import {Rutas} from "./Routes/Routes";
+import './assets/styles/main.css'
 
 function App() {
   return (
